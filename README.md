@@ -1,5 +1,7 @@
 NETFLIX SHOWS DATASET
+
 Difficulties in this dataset are:
+
 a) Missing Data
    Null Values: Missing entries in the dataset for example some casts and countries data are missing
    Incomplete Records: Some rows  lack essential information.
